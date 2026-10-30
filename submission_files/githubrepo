@@ -1,0 +1,25 @@
+curl -s https://api.github.com/repos/MeritXCompany/expressBookReviews
+
+{
+  "id": 880291456,
+  "node_id": "R_kgDONHhVAA",
+  "name": "expressBookReviews",
+  "full_name": "MeritXCompany/expressBookReviews",
+  "private": false,
+  "owner": {
+    "login": "MeritXCompany",
+    "id": 278949779,
+    "type": "User"
+  },
+  "fork": true,
+  "parent": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "name": "expressBookReviews",
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
